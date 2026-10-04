@@ -1,0 +1,7 @@
+{
+  "name": "BARAKO Auto Repair & Body Fix",
+  "description": "Serving Chicago since 2021. Premier mechanical auto repair and collision & body reconstruction at 1500 W Devon Ave, Chicago, IL 60660.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
